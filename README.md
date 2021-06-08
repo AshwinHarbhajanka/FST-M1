@@ -1,3 +1,7 @@
+---------------------------
+Comment - Completed all the required activities.
+---------------------------
+
 # FST Module 1 Activities Repo
 
 ## Instructions
@@ -35,3 +39,4 @@
 ```
 
 Please note that failure to follow these instructions will cause issues when we track activity progress.
+
